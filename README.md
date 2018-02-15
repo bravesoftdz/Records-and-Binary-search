@@ -26,11 +26,11 @@ Step 9: Print the resulting array
 
 Step 10: search the array for all records with a numeric field equal to the number entered from the keyboard. Use the search algorithm given by the teacher. Each time the numeric field of the current record is compared to the entered number, the value of the logical field of the current record changes to true. The search results can be displayed in the following form:
 Required entries with a number equal to 27:
-Field 1 Field 2 Field 3
-27 my_test_3 true
-27 my_test_471 true
-27 my_test_500 true
-27 my_test_782 true
+> Field 1 Field 2 Field 3
+> 27 my_test_3 true
+> 27 my_test_471 true
+> 27 my_test_500 true
+> 27 my_test_782 true
 
 Step 11: Output the received array and calculate how many records have the value of the field 3 = true
 
