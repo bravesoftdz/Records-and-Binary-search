@@ -41,7 +41,7 @@ begin
   begin
     with M[i] do
     begin
-      num:=Random(201);
+      num:=Random(200)+1;
       str:='My_test_' + IntToStr(i);
       f:=false;
     end;
