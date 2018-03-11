@@ -40,7 +40,7 @@ Step 11: Output the received array and calculate how many records have the value
 
 **Algorithm scheme**: 
 
-![Algorithm scheme]()
+![Algorithm scheme](https://github.com/N1ghtF1re/Records-and-Binary-search/blob/master/docs/scheme.png)
 
 **Code:**
 ``` pascal
